@@ -1,0 +1,12 @@
+ server folder
+ 1  -->   npm init -y
+ 2  -->   npm i bcryptjs
+ 3  -->   npm i cloudinary cookie-parser cors dotenv express jsonwebtoken mongoose nodemon
+
+client
+
+1 --> npm create vite@latest
+npm i @reduxjs/toolkit react-redux axios react-router-dom
+
+
+to install shad-cn you have to move to google and search shad-cn
